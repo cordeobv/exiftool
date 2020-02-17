@@ -1,5 +1,5 @@
 {
-    "name": "cordeo/exiftool",
+    "name": "exiftool/exiftool",
     "description": "Fork of exiftool/exiftool",
     "require": {}
 }
